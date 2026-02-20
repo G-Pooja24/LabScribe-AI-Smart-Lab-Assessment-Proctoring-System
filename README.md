@@ -1,0 +1,1 @@
+# LabScribe-AI-Smart-Lab-Assessment-Proctoring-System
