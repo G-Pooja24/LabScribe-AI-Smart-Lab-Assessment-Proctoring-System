@@ -1,0 +1,7 @@
+{
+  "name": "AI Based Laboratory Question Paper Management System ",
+  "description": "A full-stack web platform for teachers and students to collaborate on laboratory tests. Teachers can add questions, generate AI-based question papers, view results, and interact with a smart AI assistant. Students can take tests, view results, and interact with a restricted AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
