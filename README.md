@@ -18,16 +18,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard Overview | Assessment View |
-|:---:|:---:|
-| ![Dashboard](docs/screenshots/dashboard_1.png) | ![Assessment](docs/screenshots/assessment_view.png) |
-| **Lab Management** | **About LabScribe** |
-| ![Management](docs/screenshots/dashboard_2.png) | ![About](docs/screenshots/about_page.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
